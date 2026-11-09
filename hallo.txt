@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 hallo
 Hoi quinten van oostveen man van de draden
+=======
+>>>>>>> d03a616046c29e96363c5c6f4838630ba7a19f9a
